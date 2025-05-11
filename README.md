@@ -16,33 +16,33 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="img/1.png" alt="Encode text into Morse Code" width="600"/>
-  <br><em>Encode text into Morse Code</em>
+  <img src="img/1.png" alt="Download Modes" width="600"/>
+  <br><em>YTDL All Download Modes</em>
 </p>
 
 <p align="center">
-  <img src="img/2.png" alt="Encode text into Morse Code (save the file in .txt)" width="600"/>
-  <br><em>Encode text into Morse Code (save the file in .txt)</em>
+  <img src="img/2.png" alt="YTDL Overview" width="600"/>
+  <br><em>YTDL Overview Look</em>
 </p>
 
 <p align="center">
-  <img src="img/3.png" alt="Encoded File .txt" width="600"/>
-  <br><em>Encoded File .txt</em>
+  <img src="img/3.png" alt="YTDL Quality Options and Downloading" width="600"/>
+  <br><em>YTDL Quality Options & Downloading Log</em>
 </p>
 
 <p align="center">
-  <img src="img/4.png" alt="Decode Morse Code into text" width="600"/>
-  <br><em>Decode Morse Code into text</em>
+  <img src="img/4.png" alt="YTDL Detecting Video Title and Download Path" width="600"/>
+  <br><em>YTDL Detecting Video Title and listing it and Showing Download Path</em>
 </p>
 
 <p align="center">
-  <img src="img/5.png" alt="Decode Morse Code into text (save the file in .txt)" width="600"/>
-  <br><em>Decode Morse Code into text (save the file in .txt)</em>
+  <img src="img/5.png" alt="YTDL Sequential Download Mode" width="600"/>
+  <br><em>YTDL Sequential Download Mode</em>
 </p>
 
 <p align="center">
-  <img src="img/6.png" alt="Decoded File .txt" width="600"/>
-  <br><em>Decoded File .txt</em>
+  <img src="img/6.png" alt="YTDL Parallel Download Mode" width="600"/>
+  <br><em>YTDL Parallel Download Mode</em>
 </p>
 
 ---

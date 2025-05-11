@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">ytdl</h1>
-  <p align="center">`ytdl` is a feature-rich interactive wrapper around `yt-dlp`</p>
+  <p align="center">ytdl is a feature-rich interactive wrapper around yt-dlp</p>
   
   <p align="center">
     <a href="LICENSE">
